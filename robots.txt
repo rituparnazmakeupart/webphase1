@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /qa/
+Disallow: /assets/images/placeholders/README.md
+Sitemap: https://www.rituparnazmakeup.com/sitemap.xml

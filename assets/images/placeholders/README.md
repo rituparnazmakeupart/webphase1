@@ -1,0 +1,1 @@
+Place category-specific photography here and preserve filenames. Current placeholder assets are used only where no supplied photograph was available: pre-wedding, editorial & fashion, and hair dressing.

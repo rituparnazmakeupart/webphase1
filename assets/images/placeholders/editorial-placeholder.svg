@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100">
+<rect width="800" height="1100" fill="#23203A"/>
+<circle cx="400" cy="400" r="250" fill="#C8A49F" opacity=".16"/>
+<path d="M400 160v480M160 400h480M232 232l336 336M568 232L232 568" stroke="#D8C4AC" opacity=".25" stroke-width="2"/>
+<circle cx="400" cy="400" r="185" fill="none" stroke="#EEE4DA" opacity=".45" stroke-width="2"/>
+<text x="400" y="760" text-anchor="middle" fill="#EEE4DA" font-size="54" font-family="Georgia,serif">EDITORIAL</text>
+<text x="400" y="825" text-anchor="middle" fill="#C8A49F" font-size="22" font-family="Arial,sans-serif" letter-spacing="3">REPLACE WITH PHOTOGRAPHY</text>
+<text x="400" y="870" text-anchor="middle" fill="#EEE4DA" opacity=".7" font-size="18" font-family="Arial,sans-serif">Fashion & visual storytelling</text>
+</svg>

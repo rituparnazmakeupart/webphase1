@@ -1,0 +1,23 @@
+window.MUA_CONFIG = Object.freeze({
+  companyName: "Rituparna'z Makeup Art & Academy",
+  brandName: "Rituparna'z",
+  tagline: "Makeup Art & Academy",
+  phone: "+91 7001653228",
+  phoneDisplay: "70016 53228",
+  whatsapp: "917001653228",
+  email: "rituparnadey1508@gmail.com",
+  address: "Sultanpur, Near RamSita Mandir, Paschim Medinipur, West Bengal, India, 721149",
+  googleMapsUrl: "https://maps.app.goo.gl/Y9EC5fKYzTbpVurG6",
+  googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d451.49402658725404!2d87.47940398695964!3d22.39881076091133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1790590937098!5m2!1sen!2sin",
+  websiteUrl: "https://www.rituparnazmakeup.com",
+  logoPath: "assets/images/logo/logo.svg",
+  defaultOgImage: "assets/images/social/og-image.webp",
+  formEndpoint: "",
+  ga4MeasurementId: "",
+  instagram: "https://www.instagram.com/rituparnazmakeupart?stkn=MXI3bnYxZDYzenM3bQ%3D%3D&utm_source=qr",
+  facebook: "https://www.facebook.com/share/1Bc9qN4rDb/?mibextid=wwXIfr",
+  primaryColor: '#4D0E13',
+  dustyPink: '#C8A49F',
+  sand: '#D8C4AC',
+  cream: '#EEE4DA'
+});
